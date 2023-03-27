@@ -9,5 +9,5 @@ The password for the 4u4play (driverless.exe), is 4u4play. (LMAO)
 Steps on how to use:
 https://imgur.com/a/nxVLtEy
 
-Where the spoofer files are stored upon spoofing
+Where the spoofer files are stored upon spoofing:
 ![alt text](https://i.imgur.com/q6cgu2j.png)
