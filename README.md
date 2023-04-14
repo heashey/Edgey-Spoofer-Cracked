@@ -15,7 +15,7 @@ Volumeid64.exe = this one is interesting, I wouldn't run it because it might be 
 Steps on how to use:
 https://imgur.com/a/nxVLtEy
 
-
+buy an actual good spoofer: https://discord.gg/vyYEHcMn
 
 Where the spoofer files are stored upon spoofing
 ![alt text](https://i.imgur.com/q6cgu2j.png)
